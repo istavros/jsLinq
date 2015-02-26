@@ -1,0 +1,2 @@
+# jsLinq
+Linq for js
